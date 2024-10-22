@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ciHyqa7PG4OdKc5Oy95xY7NktzBOKqAV8kXgvS4Kk94=",
+  "Source": "Project_1",
+  "BasePath": "_content/Project_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project_1\\wwwroot",
+      "Source": "Project_1",
+      "ContentRoot": "D:\\Project_1\\Project_1\\wwwroot\\",
+      "BasePath": "_content/Project_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
